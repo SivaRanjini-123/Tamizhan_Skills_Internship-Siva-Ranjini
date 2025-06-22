@@ -1,0 +1,3 @@
+This is the second dummy file.
+Testing the encryption and decryption process on multiple files.
+Cybersecurity is important.

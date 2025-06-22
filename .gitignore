@@ -1,0 +1,25 @@
+# Python virtual environment and cache files
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+*egg-info/
+.mypy_cache/
+.pytest_cache/
+.venv/
+
+# Jupyter Notebook checkpoints and data
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
