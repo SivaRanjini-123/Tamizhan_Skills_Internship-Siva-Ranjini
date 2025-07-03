@@ -2,7 +2,7 @@
 
 This repository contains all 8 projects completed as part of the Tamizhan Skills Internship Program. Each project demonstrates skills in various areas of Python programming, web development, cybersecurity, and data analysis.
 
-**Video Demonstration:** [Link to My Project Walkthrough Video](**[https://drive.google.com/file/d/1ZIw44z62X4UAcM-7yhw7L5RMwBlZQaID/view?usp=sharing]**)
+**Video Demonstration:** [Link to My Project Walkthrough Video](https://drive.google.com/file/d/1ZIw44z62X4UAcM-7yhw7L5RMwBlZQaID/view?usp=sharing)
 
 ---
 
